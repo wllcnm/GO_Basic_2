@@ -10,6 +10,7 @@ type Student struct {
 	id    int
 	name  string
 }
+
 type Class struct {
 	id    int
 	cid   int
