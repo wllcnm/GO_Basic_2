@@ -26,7 +26,7 @@ func main() {
 	//写操作通过BufIo
 	writeByBufIo()
 
-	//
+	//写操作通过os.WriteFile
 	writeByIOUtil()
 }
 func read() {
